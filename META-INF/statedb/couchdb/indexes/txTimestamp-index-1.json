@@ -1,0 +1,10 @@
+{
+    "index": {
+        "fields": [
+            "createTxTimestamp"
+        ]
+    },
+    "ddoc": "createTxTimestamp-index-1",
+    "name": "createTxTimestamp-index-1",
+    "type": "json"
+}

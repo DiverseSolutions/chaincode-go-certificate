@@ -1,0 +1,14 @@
+{
+    "index": {
+        "fields": [
+            "docType",
+            "txTimestamp",
+            "createTxTimestamp",
+            "status",
+            "signOrgID"
+        ]
+    },
+    "ddoc": "cert-index-1",
+    "name": "cert-index-1",
+    "type": "json"
+}
